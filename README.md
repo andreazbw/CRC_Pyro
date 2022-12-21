@@ -21,6 +21,7 @@
 ### 3.Macrophage_clustering.R
 ### 4.GSVA2.R
 ### 5.C1QC+TAM_clustering.R
+### 6.Verification.R
 
 ## Cell-to-cell communication
 ### Cellchat.R
